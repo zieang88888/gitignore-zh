@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220">
+  <rect width="960" height="220" fill="#FAF6EF"/>
+  <text x="480" y="36" text-anchor="middle" font-family="Noto Sans CJK SC, 'Microsoft YaHei', sans-serif" font-size="22" font-weight="700" fill="#1F1B16">三步用上合适的 .gitignore</text>
+  <g font-family="Noto Sans CJK SC, 'Microsoft YaHei', sans-serif">
+    <rect x="40" y="60" width="240" height="120" rx="12" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <circle cx="160" cy="60" r="18" fill="#B23A2E"/>
+    <text x="160" y="67" text-anchor="middle" font-size="18" font-weight="700" fill="#FAF6EF">1</text>
+    <text x="160" y="130" text-anchor="middle" font-size="20" font-weight="600" fill="#1F1B16">选语言 / 框架</text>
+    <line x1="290" y1="120" x2="345" y2="120" stroke="#B23A2E" stroke-width="3"/>
+    <polygon points="345,113 358,120 345,127" fill="#B23A2E"/>
+    <rect x="360" y="60" width="240" height="120" rx="12" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <circle cx="480" cy="60" r="18" fill="#B23A2E"/>
+    <text x="480" y="67" text-anchor="middle" font-size="18" font-weight="700" fill="#FAF6EF">2</text>
+    <text x="480" y="130" text-anchor="middle" font-size="20" font-weight="600" fill="#1F1B16">复制模板正文</text>
+    <line x1="610" y1="120" x2="665" y2="120" stroke="#B23A2E" stroke-width="3"/>
+    <polygon points="665,113 678,120 665,127" fill="#B23A2E"/>
+    <rect x="680" y="60" width="240" height="120" rx="12" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <circle cx="800" cy="60" r="18" fill="#B23A2E"/>
+    <text x="800" y="67" text-anchor="middle" font-size="18" font-weight="700" fill="#FAF6EF">3</text>
+    <text x="800" y="130" text-anchor="middle" font-size="20" font-weight="600" fill="#1F1B16">写入 .gitignore</text>
+  </g>
+</svg>

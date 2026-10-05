@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260">
+  <rect width="960" height="260" fill="#FAF6EF"/>
+  <rect x="0" y="0" width="960" height="10" fill="#B23A2E"/>
+  <text x="480" y="92" text-anchor="middle" font-family="Noto Sans CJK SC, 'Microsoft YaHei', sans-serif" font-size="46" font-weight="700" fill="#1F1B16">.gitignore 模板大全 · 中文版</text>
+  <text x="480" y="132" text-anchor="middle" font-family="Noto Sans CJK SC, 'Microsoft YaHei', sans-serif" font-size="19" fill="#1F1B16">GitHub 官方 152,000+ ★ 模板库的中文导航 · 294 个模板即点即用</text>
+  <g font-family="Noto Sans CJK SC, 'Microsoft YaHei', sans-serif" font-size="18" font-weight="600" fill="#FAF6EF">
+    <rect x="190" y="172" width="130" height="38" rx="19" fill="#B23A2E"/>
+    <text x="255" y="197" text-anchor="middle">★152K+</text>
+    <rect x="340" y="172" width="130" height="38" rx="19" fill="#B23A2E"/>
+    <text x="405" y="197" text-anchor="middle">294 模板</text>
+    <rect x="490" y="172" width="130" height="38" rx="19" fill="#B23A2E"/>
+    <text x="555" y="197" text-anchor="middle">3 大分组</text>
+    <rect x="640" y="172" width="130" height="38" rx="19" fill="#B23A2E"/>
+    <text x="705" y="197" text-anchor="middle">CC0 许可</text>
+  </g>
+</svg>

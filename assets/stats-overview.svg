@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300">
+  <rect width="960" height="300" fill="#FAF6EF"/>
+  <text x="480" y="42" text-anchor="middle" font-family="Noto Sans CJK SC, 'Microsoft YaHei', sans-serif" font-size="22" font-weight="700" fill="#1F1B16">数据一览（2026-10-06 在线实测）</text>
+  <g font-family="Noto Sans CJK SC, 'Microsoft YaHei', sans-serif">
+    <rect x="30" y="70" width="210" height="200" rx="12" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="135" y="160" text-anchor="middle" font-size="40" font-weight="700" fill="#B23A2E">152,913</text>
+    <text x="135" y="205" text-anchor="middle" font-size="15" fill="#1F1B16">GitHub 星数 ★</text>
+    <rect x="260" y="70" width="210" height="200" rx="12" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="365" y="160" text-anchor="middle" font-size="40" font-weight="700" fill="#B23A2E">294</text>
+    <text x="365" y="205" text-anchor="middle" font-size="15" fill="#1F1B16">模板总数（个）</text>
+    <rect x="490" y="70" width="210" height="200" rx="12" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="595" y="160" text-anchor="middle" font-size="40" font-weight="700" fill="#B23A2E">3</text>
+    <text x="595" y="205" text-anchor="middle" font-size="15" fill="#1F1B16">模板分组（组）</text>
+    <rect x="720" y="70" width="210" height="200" rx="12" fill="#FFFFFF" stroke="#B23A2E" stroke-width="2"/>
+    <text x="825" y="160" text-anchor="middle" font-size="40" font-weight="700" fill="#B23A2E">153</text>
+    <text x="825" y="205" text-anchor="middle" font-size="15" fill="#1F1B16">根目录语言/框架</text>
+  </g>
+  <text x="480" y="288" text-anchor="middle" font-family="Noto Sans CJK SC, 'Microsoft YaHei', sans-serif" font-size="13" fill="#1F1B16">另含 Global/ 72 个、community/ 69 个</text>
+</svg>
